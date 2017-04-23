@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080, should generate the errors lsited into the issue report
+# serve with hot reload at localhost:8080, should generate the errors listed into the issue report
 npm run dev
 
 ```
