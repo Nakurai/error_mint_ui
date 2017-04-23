@@ -1,6 +1,6 @@
 # error_mint
 
-> just to illustrate an error using mint
+> just to illustrate an error while using mint-ui
 
 ## Build Setup
 
@@ -8,11 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080, should generate the errors lsited into the issue report
 npm run dev
 
-# build for production with minification
-npm run build
 ```
-
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
